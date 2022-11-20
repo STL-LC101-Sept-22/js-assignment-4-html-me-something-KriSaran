@@ -1,1 +1,22 @@
 /* Write your CSS here! */
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center
+  }
+  img {
+     max-height: 100%;
+     max-width: 100%;
+     border:greenyellow; 
+     border-style: dotted;
+
+  }
+  .image{
+     flex-basis: 50%;
+   }
+
+  .text {
+    font-size: 17px;
+    padding-left: 15px;
+    font-family: sans-serif ;
+  }
