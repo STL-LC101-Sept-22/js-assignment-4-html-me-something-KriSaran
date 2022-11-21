@@ -26,12 +26,14 @@
       top:50%;
       left:50%;
       transform: translate(-50%, -50%);
+      font-size: 30px;
+
    }
   .container-top {
     position: relative;
     text-align: center;
     color: darkgreen;
-    font-size: larger;
+    
   }
  .div-heading {
   color:darkgreen;
